@@ -95,7 +95,10 @@ https://developer.mbed.org/cookbook/Homepage
 Has examples, a quick pick below.
 
 ### i2c
-https://developer.mbed.org/cookbook/PCA9635-I2C-IO-Expander
+- ti:
+ - https://developer.mbed.org/cookbook/PCA9635-I2C-IO-Expander
+- nxp
+ - https://developer.mbed.org/cookbook/PCA9635-I2C-IO-Expander
 
 ### SD Card
 https://developer.mbed.org/cookbook/SD-Card-File-System 
