@@ -33,6 +33,7 @@ The green PCB has hopefully an area that can
  - micro SD holder connected to SPI and a digital i/o pin for /SS
  - real time clock
  - and if there is any area left, a matrix of pins to allow for something that is missed!
+ - and almost forgot, a vibrator like one has in ones mobile: that should be enough.
 
 ### The orange PCB
 The orange PCB does not depend on the green PCB but allows for vertical placement of micro:bit and an area to stack other boards on top of it with an easier connector than the standard micro:bit connector.
