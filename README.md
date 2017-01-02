@@ -20,5 +20,44 @@ A picture paints a thousand words, but some words are needed.
 - The right angled connector is optional, the green board should have big holes for "standard" bolt/nut/spacer for electrical contact of p0-2/vcc/gnd
  - The green pcb should have the possibility of mounting the right angled connector when wished
 
- ## Kitronik Motor Driver
- !![img](media/motordriver.png)
+## Kitronik Motor Driver
+!![img](media/motordriver.png)
+
+The Kitronik Motor Driver is ok. However, the available i/o pins create a problem
+- Motor1
+ - p12: is documented as Reserved: accesiblity reasons unknown
+ - p08: digital i/o
+- Motor2
+ - p16: digital i/o
+ - p00: analog i/o ie using valuable analog i/o for a digital i/o application
+- Input1
+ - p01: analog i/o ie using valuable analog i/o for a digital i/o application typically the Kitronik Line follower.
+- Input2:
+ - p02: analog i/o ie using valuable analog i/o for a digital i/o application typically the Kitronik Line follower.
+- Btn A:
+ - dependant on uses, this can be ok. See below.
+- Btn B:
+ - dependant on uses, this can be ok. See below.
+
+A i2c 16 digital possibility on the green pcb would allow for the following
+- Motor1: application motor
+ - i2c digital i/o with rerouting of signal from green pcb to appropriate pin on the bottom of the green pcb connector
+ - i2c digital i/o with rerouting of signal from green pcb to appropriate pin on the bottom of the green pcb connector
+- Motor2: application motor
+ - i2c digital i/o with rerouting of signal from green pcb to appropriate pin on the bottom of the green pcb connector
+ - i2c digital i/o with rerouting of signal from green pcb to appropriate pin on the bottom of the green pcb connector
+- Input1: application Kitronik Line Follower
+ - i2c digital i/o with rerouting of signal from green pcb to appropriate pin on the bottom of the green pcb connector
+ - i2c digital i/o with rerouting of signal from green pcb to appropriate pin on the bottom of the green pcb connector
+- Input2: application Kitronik Line Follower
+ - i2c digital i/o with rerouting of signal from green pcb to appropriate pin on the bottom of the green pcb connector
+ - i2c digital i/o with rerouting of signal from green pcb to appropriate pin on the bottom of the green pcb connector
+- Btn A: application Ultrasonic module Trig
+ - i2c digital i/o with rerouting of signal from green pcb to appropriate pin on the bottom of the green pcb connector
+- Btn B: application Ultrasonic module Echo
+ - i2c digital i/o with rerouting of signal from green pcb to appropriate pin on the bottom of the green pcb connector
+
+Also, note that if connections are reroutable, access to the back pins of the motor driver are possible ("Pads only active when leds face this side")
+
+## Micro:bit connections
+ !![img](media/microbitconnector.png)
