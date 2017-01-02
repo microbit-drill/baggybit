@@ -28,6 +28,7 @@ The green PCB has hopefully an area that can
  - the coin battery
  - 3.5 audio connector
  - i2c, preferably 16 bit
+ - micro SD holder connected to SPI and a digital i/o pin for /SS
  - real time clock
  - and if there is any area left, a matrix of pins to allow for something that is missed!
 
