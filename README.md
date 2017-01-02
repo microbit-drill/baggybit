@@ -1,5 +1,5 @@
 # baggybit
-!![img](media/collection.png)
+![img](media/collection.png)
 
 A picture paints a thousand words, but some words are needed.
 
@@ -20,8 +20,13 @@ A picture paints a thousand words, but some words are needed.
 - The right angled connector is optional, the green board should have big holes for "standard" bolt/nut/spacer for electrical contact of p0-2/vcc/gnd
  - The green pcb should have the possibility of mounting the right angled connector when wished
 
-## Kitronik Motor Driver
-!![img](media/motordriver.png)
+## The Green PCB
+
+## The Orange PCB
+
+
+# Kitronik Motor Driver
+![img](media/motordriver.png)
 
 The Kitronik Motor Driver is ok. However, the available i/o pins create a problem
 - Motor1
@@ -59,5 +64,6 @@ A i2c 16 digital possibility on the green pcb would allow for the following
 
 Also, note that if connections are reroutable, access to the back pins of the motor driver are possible ("Pads only active when leds face this side")
 
-## Micro:bit connections
- !![img](media/microbitconnector.png)
+# Micro:bit connections
+![img](media/microbitconnector.png)
+The micro:bit connector documented from http://tech.microbit.org
