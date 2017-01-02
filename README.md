@@ -82,6 +82,22 @@ A i2c 16 digital possibility on the green pcb would allow for the following with
 
 Also, note that if connections are reroutable, access to the back pins of the motor driver are possible ("Pads only active when leds face this side")
 
-# Micro:bit connections
+# Reference
+
+## Micro:bit connections
 ![img](media/microbitconnector.png)
+
 The micro:bit connector documented from http://tech.microbit.org
+
+## mbed cookbooks
+https://developer.mbed.org/cookbook/Homepage
+
+Has examples, a quick pick below.
+
+### i2c
+https://developer.mbed.org/cookbook/PCA9635-I2C-IO-Expander
+
+### SD Card
+https://developer.mbed.org/cookbook/SD-Card-File-System 
+
+
