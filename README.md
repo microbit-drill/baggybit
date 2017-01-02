@@ -20,9 +20,12 @@ A picture paints a thousand words, but some words are needed.
 - The right angled connector is optional, the green board should have big holes for "standard" bolt/nut/spacer for electrical contact of p0-2/vcc/gnd
  - The green pcb should have the possibility of mounting the right angled connector when wished
 
-## The Green PCB
+## Parts
+![img](media/blown.png)
 
-## The Orange PCB
+### The Green PCB
+
+### The Orange PCB
 
 
 # Kitronik Motor Driver
