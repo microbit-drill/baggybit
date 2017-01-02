@@ -1,2 +1,2 @@
 # baggybit
-!![img](baggybit.PNG)
+!![img](media/collection.png)
