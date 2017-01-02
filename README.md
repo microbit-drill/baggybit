@@ -17,3 +17,5 @@ A picture paints a thousand words, but some words are needed.
  - the green board should allow rerouting of i/o so that the buggy is using digital i/o and not valuable analog i/o
  - the expansion pins on the Kitronik motor kit will be accecable for "cool things" as there is rerouting for i/o pins to the otherwise inactive backside of the motor kit
  - it is such that if the micro:bit is reversed on the motor controller, the pins are active, the green board allows for the micro:bit to be freely placed, front or back facing
+- The right angled connector is optional, the green board should have big holes for "standard" bolt/nut/spacer for electrical contact of p0-2/vcc/gnd
+ - The green pcb should have the possibility of mounting the right angled connector when wished
