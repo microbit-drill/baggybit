@@ -19,3 +19,6 @@ A picture paints a thousand words, but some words are needed.
  - it is such that if the micro:bit is reversed on the motor controller, the pins are active, the green board allows for the micro:bit to be freely placed, front or back facing
 - The right angled connector is optional, the green board should have big holes for "standard" bolt/nut/spacer for electrical contact of p0-2/vcc/gnd
  - The green pcb should have the possibility of mounting the right angled connector when wished
+
+ ## Kitronik Motor Driver
+ !![img](media/motordriver.png)
