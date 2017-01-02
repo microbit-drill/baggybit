@@ -3,6 +3,7 @@
 
 ## Parts
 ![img](media/blown.png)
+
 The exploded view shows some of the main components
 - The Green PCB
  - see below
