@@ -43,7 +43,7 @@ The orange PCB does not depend on the green PCB but allows for vertical placemen
 # Kitronik Motor Driver
 ![img](media/motordriver.png)
 
-The Kitronik Motor Driver is ok. However, the available i/o pins create a problem
+The Kitronik Motor Driver is ok. However, the available i/o pins create a problem and the green pcb can help
 - Motor1
  - p12: is documented as Reserved: accesiblity reasons unknown
  - p08: digital i/o
