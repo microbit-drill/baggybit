@@ -82,6 +82,8 @@ A i2c 16 digital possibility on the green pcb would allow for the following with
 
 Also, note that if connections are reroutable, access to the back pins of the motor driver are possible ("Pads only active when leds face this side")
 
+https://github.com/microbit-drill/buggybit 
+
 # Reference
 
 ## Micro:bit connections
