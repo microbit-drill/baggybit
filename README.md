@@ -22,6 +22,22 @@ A picture paints a thousand words, but some words are needed.
 
 ## Parts
 ![img](media/blown.png)
+The exploded view shows some of the main components
+- The Green PCB
+ - see below
+- The Orange PCB
+ - see below
+- The yellow coin battery
+ - should be replaceable without removing the micro:bit 
+- The blue 3.5 audi connector
+ - p0 left p1 right and p2 mic
+ - The connections on the green pcb should allow for disablement
+- The white 90 degree connector
+ - if not populated, use red bolt/nut/spacer
+- The purple jumper connector(s)
+ - to allow rerouting to other pins back and front 
+- The badge
+ - an example of the usage as a badge with place for a name to the right of logo
 
 ### The Green PCB
 
