@@ -39,9 +39,10 @@ The green PCB has hopefully an area that can
 ### The orange PCB
 The orange PCB does not depend on the green PCB
 - the micro:bit should be placeable with front/back freedom to allow for different application uses/needs.
-- the PCB should include holes for easy stackable connectors that can support Raspberry Pi or Ardunio units
-- the PCB should have a hole matrix for own inventions
-- the PCB should have a regulater for other voltages and supply 3.3v to the micro:bit
+- the PCB should include holes for easy stackable connectors that can support Raspberry Pi or Ardunio shield bases
+- the PCB should have a hole matrix for prototyping
+- the PCB should have a standard +12v connector 
+- the PCB should have a regulater for other voltages, +5 and +12v, and supply 3.3v to the micro:bit
 
 # Kitronik Motor Driver
 ![img](media/motordriver.png)
