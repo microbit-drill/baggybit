@@ -13,6 +13,8 @@ The exploded view shows some of the main components
 - The blue 3.5 audi connector
  - p0 left p1 right and p2 mic
  - The connections on the green pcb should allow for disablement
+- The indigo micro sd flash holder
+ - connected to SPI and a digital i/o /SS
 - The white 90 degree connector
  - if not populated, use red bolt/nut/spacer
 - The purple jumper connector(s)
