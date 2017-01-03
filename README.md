@@ -44,6 +44,11 @@ The orange PCB does not depend on the green PCB
 - the PCB should have a standard +12v connector 
 - the PCB should have a regulater for other voltages, +5 and +12v, and supply 3.3v to the micro:bit
 
+## PCB Tools under consideration
+The following short list of tools to produce the PCB
+- https://easyeda.com/OwenBrotherwood/Baggybit-230bf229bd1a4e67a54f10b8406a4a19 : easyeda gives end-to-end pcb, from tool to production
+
+
 # Kitronik Motor Driver
 ![img](media/motordriver.png)
 
